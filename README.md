@@ -1,7 +1,7 @@
 # Robotics Palpation (SoRo) - 25/06/2020
 ### Luca Scimeca (luca.scimeca@live.com) 
 
-![](/assets/NMI_palpation_short.gif | width=100)
+![Alt Text](https://github.com/lucascimeca/Robotics_Palpation/blob/master/assets/NMI_palpation_short.gif)
 
 This repository contains code and data for the article "Action Augmentation of Soft Tactile Perception for Soft-Body Palpation", written under the supervision of Dr Fumiya Iida, and in collaboration with Dr Josie Hughes, Dr Thrishantha Nanayakkara and Mr Liang He, in the Engineering Department of the University of Cambridge.
 
