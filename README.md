@@ -1,4 +1,4 @@
-# Robotics Palpation (SoRo) - 25/06/2020
+# Robotics Palpation (SoRo)
 ### Luca Scimeca (luca.scimeca@live.com) 
 
 ![Alt Text](https://github.com/lucascimeca/Robotics_Palpation/blob/master/assets/NMI_palpation_short.gif)
